@@ -2,10 +2,9 @@
 
 ## General info
 Simple browser game created in JavaScript
-
-## Sources
-This project is inspired by course JavaScript Developer. React Coders Lab
-
-### demo: https://igasyl.github.io/gold_digger/
+demo: https://igasyl.github.io/gold_digger/
 
 ![](./images/gold_digger_min.jpg)
+
+## Sources
+This project is inspired by Coders Lab course JavaScript Developer. React 
