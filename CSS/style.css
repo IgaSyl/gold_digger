@@ -5,6 +5,9 @@
 body {
     margin: 0;
     padding: 0;
+    background-image: url(/home/iga/Desktop/gold_game_JS/images/background_img.jpeg);
+    background-repeat: no-repeat;
+  background-size: cover;
 }
 
 section#score {
@@ -18,7 +21,7 @@ section#score {
 }
 
 #board  > div {    
-  border: 1px solid black;
+  border: 1px solid grey;
   float: left;
   width: 64px;
   height: 64px;
@@ -40,12 +43,12 @@ section#score div {
 
 
 
-.furry {
-  background-image: url('../images/furry.png');
+.goldDigger {
+  background-image: url('../images/gold_digger.jpeg');
   background-repeat: no-repeat;
   background-size: cover;
 }
-.coin {
+.gold {
   background-image: url('../images/coin.png');
   background-repeat: no-repeat;
   background-size: cover;
