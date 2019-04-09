@@ -6,6 +6,6 @@ Simple browser game created in JavaScript
 ## Sources
 This project is inspired by course JavaScript Developer. React Coders Lab
 
-### demo:
+### demo: https://igasyl.github.io/gold_digger/
 
 ![](./images/gold_digger_min.jpg)
